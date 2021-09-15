@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/logout.png</file>
+    <file>icons/add_image.png</file>
+    <file>icons/sign_up.png</file>
+    <file>icons/login.png</file>
+    <file>icons/add.png</file>
+    <file>icons/browse.png</file>
+    <file>icons/cancel.png</file>
+    <file>icons/ok.png</file>
+    <file>icons/back_icon.png</file>
+    <file>icons/icons8-person-80.png</file>
+    <file>icons/app_icon.png</file>
+    <file>icons/paus.png</file>
+    <file>icons/paus_1.png</file>
+    <file>icons/play.png</file>
+    <file>icons/play_1.png</file>
+  </qresource>
+</RCC>

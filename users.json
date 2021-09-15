@@ -1,0 +1,10 @@
+{
+    "index_counter": 1,
+    "users": [
+        {
+            "name": "mohamed",
+            "password": "123456789",
+            "id": 1
+        }
+    ]
+}
